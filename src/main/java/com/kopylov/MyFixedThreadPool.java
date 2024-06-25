@@ -1,3 +1,5 @@
+package main.java.com.kopylov;
+
 import java.util.ArrayList;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.RejectedExecutionException;

@@ -1,3 +1,5 @@
+package main.java.com.kopylov;
+
 public class MyExecutorService {
 
     static MyFixedThreadPool executor = new MyFixedThreadPool(2);
